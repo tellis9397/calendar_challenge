@@ -1,0 +1,23 @@
+.Event {
+  position: absolute;
+  text-align: left;
+  border-style: solid;
+  border-width: thin;
+  border-color: #d1d1e0;
+  border-left: 4px solid #5a7abf;
+  box-sizing: border-box;
+  padding-top: 5px;
+  padding-left: 5px;
+  background-color: white;
+}
+
+h1 {
+  font-size: 15px;
+  color: #5a7abf;
+  font-weight: normal;
+}
+
+p {
+  font-size: 10px;
+  color: #a5a5a5;
+}

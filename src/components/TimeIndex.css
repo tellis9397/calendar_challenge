@@ -1,0 +1,38 @@
+.TimeIndex {
+  position: absolute;
+  margin-top: -12px;
+  height: 745px;
+  width: 100px;
+}
+
+ul {
+  height: inherit;
+  display: flex;
+  flex-direction: column;
+  text-align: right;
+  margin-right: 6px;
+}
+
+li {
+  flex: 1;
+}
+
+.period {
+  font-weight: lighter;
+  padding-left: 4px;
+  font-size: 10px;
+  color: #a5a5a5;
+}
+
+li:nth-child(odd) {
+  padding-top: 4px;
+  font-weight: bold;
+  font-size: 15px;
+  color: #4f4f4f;
+}
+
+li:nth-child(even) {
+  padding-top: 9px;
+  font-size: 10px;
+  color: #a5a5a5;
+}

@@ -1,0 +1,22 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.ContainerBox{
+  background-color: #F2F2F2;
+  position: absolute;
+  width: 600px;
+  left: 100px;
+  padding-left: 10px;
+  padding-right: 10px;
+  height: 720px;
+  border-left: 1px solid #d1d1e0;
+}
+
+.Container {
+  background-color: inherit;
+  position: absolute;
+  width: 600px;
+  height: 720px;
+}
